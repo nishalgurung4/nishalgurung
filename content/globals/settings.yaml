@@ -1,18 +1,21 @@
 title: Settings
 data:
-  site_name: 'Starter''s Creek'
+  site_name: 'OOA&D'
   personality: casual
   show_signup: true
   social:
     -
+      id: 84CcbCC2
       name: Twitter
-      url: 'https://twitter.com/statamic'
+      url: 'https://twitter.com/nishalgrg'
       icon: site/social-icons/twitter.svg
     -
+      id: U6EVK3Ag
       name: Github
-      url: 'https://github.com/statamic/starter-kit-starters-creek'
+      url: 'https://github.com/nishalgurung4'
       icon: site/social-icons/github.svg
     -
+      id: Oo8upUYT
       name: Email
-      url: 'mailto:jack@statamic.com'
+      url: 'mailto:nishal.gurung4@gmail.com'
       icon: site/social-icons/email.svg

@@ -1,7 +1,10 @@
-title: Blog
+title: Articles
 template: blog/show
 layout: layout
 mount: home
+taxonomies:
+  - categories
+  - tags
 revisions: false
 route: '/{slug}'
 date: true
@@ -9,3 +12,7 @@ sort_dir: asc
 date_behavior:
   past: public
   future: private
+preview_targets:
+  -
+    label: Entry
+    url: '{permalink}'
